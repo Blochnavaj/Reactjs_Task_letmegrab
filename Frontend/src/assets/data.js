@@ -6,7 +6,7 @@ import coffee7 from '../assets/Coffee 7.webp';
 import coffee8 from '../assets/Coffee 8.webp';
 import coffee_new from '../assets/Coffee.png';
 import coffee_new2 from '../assets/Coffee.webp';
-
+  
 
  export const assets = {
     coffee3,
@@ -16,7 +16,8 @@ import coffee_new2 from '../assets/Coffee.webp';
     coffee7,
     coffee8,
      coffee_new,
-    coffee_new2
+    coffee_new2,
+     
 }
 
 

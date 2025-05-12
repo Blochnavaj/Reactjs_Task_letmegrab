@@ -21,7 +21,7 @@ const Navbar = () => {
   return (
     <nav className="bg-white shadow-md fixed top-0 w-full z-50">
       <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
-        <div className="text-xl font-bold text-blue-600">MyBrand</div>
+        <div className="text-xl font-bold text-blue-600">Letmegrab</div>
         <div className="hidden md:flex items-center space-x-4">
           <Link to="/" className="text-gray-700 hover:text-blue-600">Home</Link>
           <Link to="/products" className="text-gray-700 hover:text-blue-600">Products</Link>

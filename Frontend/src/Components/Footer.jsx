@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
         {/* Brand Section */}
         <div>
-          <h2 className="text-2xl font-bold mb-4 text-blue-400">MyBrand</h2>
+          <h2 className="text-2xl font-bold mb-4 text-blue-400">Letmegrab</h2>
           <p className="text-sm text-gray-400">
             Creating great experiences with modern web technology.
           </p>
@@ -46,7 +46,7 @@ const Footer = () => {
 
       {/* Bottom Line */}
       <div className="text-center text-sm text-gray-500 mt-10 border-t border-gray-800 pt-4">
-        © {new Date().getFullYear()} MyBrand. All rights reserved.
+        © {new Date().getFullYear()} Letmegrab. All rights reserved.
       </div>
     </footer>
   );
